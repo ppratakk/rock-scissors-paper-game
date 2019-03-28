@@ -3,7 +3,7 @@
 
 ## Demo:
 
-
+https://ppratakk.github.io/rock-scissors-paper-game/
 
 ## Installation:
 
